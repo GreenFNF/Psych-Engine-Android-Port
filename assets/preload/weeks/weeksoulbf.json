@@ -1,0 +1,43 @@
+{
+	"storyName": "breaking free (discharge v2 only)",
+	"hideFreeplay": false,
+	"weekBackground": "mind",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"soul",
+		"corrupted",
+		"bf"
+	],
+	"songs": [
+	  [
+	    "Tormentor",
+	    "SoulBF",
+	    [
+	      0,
+	      0,
+	      91
+	    ]
+	  ],
+	  [
+	  "Neuroses",
+	   "SoulBF",
+	   [
+	     0,
+	     0,
+	     91
+	   ]
+	  ],
+		[
+			"Discharge",
+			"SoulBF",
+			[
+				0,
+				0,
+				91
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Soul Week"
+}
