@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tv_After_TormentorLol.png">
+	<!-- Created with Adobe Animate version 69.69.6.696969-->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Static_Tv0000" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0001" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0002" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0003" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0004" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0005" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0006" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0007" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0008" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0009" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0010" x="1116" y="839" width="717" height="542"/>
+	<SubTexture name="Static_Tv0011" x="1116" y="839" width="717" height="542"/>
+	<SubTexture name="Static_Tv0012" x="1116" y="839" width="717" height="542"/>
+	<SubTexture name="Static_Tv0013" x="1116" y="839" width="717" height="542"/>
+	<SubTexture name="Static_Tv0014" x="1116" y="839" width="717" height="542"/>
+	<SubTexture name="Static_Tv0015" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0016" x="343" y="39" width="717" height="542"/>
+	<SubTexture name="Static_Tv0017" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0018" x="85" y="938" width="717" height="542"/>
+	<SubTexture name="Static_Tv0019" x="1116" y="839" width="717" height="542"/>
+	<SubTexture name="Static_Tv0020" x="1116" y="839" width="717" height="542"/>
+	</TextureAtlas>
